@@ -57,7 +57,7 @@ If you create your own theme, consider giving it a unique name and *sharing* you
 
 ## Website icon
 
-Are you looking to customize the desktop and mobile icon which appears in your site's Progressive Web App (PWA) and web browser tab?
+Are you looking to customize the desktop and mobile icon which appears in your site's Progressive Web App (PWA) and web browser tab? This icon is also referred to as a favicon.
 
 Save your icon as a square 512x512 pixel image named `icon.png` and place the image in your root `assets/images/` folder, creating the `assets` and `images` folders if they don't already exist.
 
